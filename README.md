@@ -66,7 +66,7 @@ IsoCity includes an experimental feature to generate custom buildings using AI, 
 5. [Gemini 2.5 Flash](https://fal.ai/models/openrouter/router) analyzes the image to suggest game stats
 
 **To enable:**
-1. Get a free API key from [fal.ai](https://fal.ai)
+1. Get a free API key from [fal.ai/dashboard/keys](https://fal.ai/dashboard/keys)
 2. Create `.env.local` in the project root:
    ```
    FAL_KEY=your_fal_api_key_here
